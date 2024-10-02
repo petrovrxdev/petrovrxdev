@@ -1,7 +1,7 @@
 ## Pеtrоv
 
 ### 👨‍💻 Hey there! I’m @petrovrxdev
-** 💻 Obsessed with: R, data wrangling, and statistical sorcery
+#### 💻 Obsessed with: R, data wrangling, and statistical sorcery
 ** 📚 Currently mastering: Advanced R techniques, and dabbling in the mysteries of machine learning
 ** 💡 Let's geek out on: R projects, data science collabs, or anything that involves cool algorithms
 ** 📬 Find me at: rXgroup.dev
